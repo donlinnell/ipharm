@@ -14,5 +14,8 @@ module.exports = {
         'instanceName': 'MSSQLSERVER'
       }
     }
+  },
+  authentication: {
+    jwtSecret: 'SecretStringForIpharmApplication11!!'
   }
 }
